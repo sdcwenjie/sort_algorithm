@@ -1,2 +1,2 @@
 # sort_algorithm
-Gathr common sort algorithm in java
+Gather common sort algorithm in java
